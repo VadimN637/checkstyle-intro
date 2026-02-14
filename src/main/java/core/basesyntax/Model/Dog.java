@@ -1,4 +1,6 @@
 package core.basesyntax.model;
 
-public class Dog {}
+public class Dog {
+    
+}
 
